@@ -37,7 +37,7 @@ Tools to report issues in code that are or lead to bugs.
 * [PHPCodeFixer](https://github.com/wapmorgan/PhpCodeFixer) -  Finds usage of deprecated functions, variables and ini directives.
 * [php-compat-info](https://github.com/llaville/php-compat-info) - Find out the minimum version and the extensions required for a piece of code to run.
 * [php7mar](https://github.com/Alexia/php7mar) - PHP 7 Migration Assistant Report.
-* [phpcallgraph](http://phpcallgraph.sourceforge.net/) - Generate static call graphs. Such a graph visualizes the call dependencies among methods or functions of an application..
+* Устарел [phpcallgraph](http://phpcallgraph.sourceforge.net/) - Generate static call graphs. Such a graph visualizes the call dependencies among methods or functions of an application..
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - Spots copy/pasted code, and help enforcing DRY rule.
 * [PHPDoctor](https://github.com/voku/PHPDoctor) - Check PHP files or directories for missing types.
 * [Phan](https://github.com/etsy/phan) - The static analyzer by Rasmus, PHP Creator.
